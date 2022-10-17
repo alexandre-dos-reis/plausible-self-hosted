@@ -1,1 +1,2 @@
 # plausible-self-hosted
+
